@@ -15,10 +15,10 @@ Follow the guidelines below to review your partner's project.
 1) Look for the repository of the partner you have been assigned to.
 
 2) Read the README file. After reading it, can you answer these questions?
-  - Is the goal of the project clear to you?
-  - Do you know what are the main questions that your partner wants to answer?
-  - Do you know your partners' hypotheses?
-  - What is the source of the data that your partner is going to use?
+  - Is the goal of the project clear to you? Yes
+  - Do you know what are the main questions that your partner wants to answer? Yes, the hypothesis
+  - Do you know your partners' hypotheses? Yes
+  - What is the source of the data that your partner is going to use? 
   - Has your partner defined any coding conventions?
   
 3) Take a look at the folder structure of your partner's repository.
